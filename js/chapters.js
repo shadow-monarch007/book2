@@ -1672,3 +1672,5 @@ const chapters = [
         `
     }
 ];
+
+window.bookChapters = chapters;
