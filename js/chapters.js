@@ -918,10 +918,26 @@ const chapters = [
             <p>Maya stood perfectly still, the silence in the room suddenly feeling heavy and hollow. She looked at the green ceramic mug on the drying rack, then at her own hands. A cold, familiar panic flared up in her chest, a sudden, sharp memory of three years of constant adjustments, of a man who had packed his things in silence while she was at a gallery.</p>
             <p>By Thursday, the morning texts had changed.</p>
             <p>They didn't stop. Elias was too reliable, too disciplined to simply ghost her. But the warm, dry banter that had been passing between them like a secret code was replaced by simple, utilitarian updates.</p>
-            <p>*Elias: Heading to the lumber yard uptown. Hope the client meeting goes well.*</p>
-            <p>*Maya: Got it. Good luck with the timber.*</p>
-            <p>*Elias: Late shift at the workshop tonight. Don't wait up.*</p>
-            <p>*Maya: Understood. Don't work too hard.*</p>
+            <div class="chat-message-container">
+                <div class="chat-message sender-other">
+                    <span class="chat-text">Heading to the lumber yard uptown. Hope the client meeting goes well.</span>
+                </div>
+            </div>
+            <div class="chat-message-container">
+                <div class="chat-message sender-self">
+                    <span class="chat-text">Got it. Good luck with the timber.</span>
+                </div>
+            </div>
+            <div class="chat-message-container">
+                <div class="chat-message sender-other">
+                    <span class="chat-text">Late shift at the workshop tonight. Don't wait up.</span>
+                </div>
+            </div>
+            <div class="chat-message-container">
+                <div class="chat-message sender-self">
+                    <span class="chat-text">Understood. Don't work too hard.</span>
+                </div>
+            </div>
             <p>By Friday, he was spending twelve hours a day at the bench, his hours stretching into the late night, his presence in her apartment shrinking back to a quiet, late-night shadow that slipped into bed long after she had fallen asleep. He stayed completely on his side of the mattress, his breathing slow and even, but the space between them felt like an unmapped territory.</p>
             <p>Maya noticed the shift within the first twenty-four hours.</p>
             <p>She had spent two years learning to read the microscopic changes in his gravity, the way his jaw flexed when he was stressed, the way his shoulders tensed when the noise got too loud. She knew exactly what he was doing.</p>
