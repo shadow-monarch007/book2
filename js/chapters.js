@@ -516,8 +516,7 @@ const chapters = [
             <p>He turned back to the workbench and picked up his block plane. The rhythmic scraping began again.</p>
             <p>Maya sat in the armchair. She looked down at her dark tablet screen, then over to her bag where her sketchbook was hidden.</p>
         `
-    }
-,
+    },
     {
         id: 15,
         title: "Chapter 15: Her Wall",
@@ -552,8 +551,7 @@ const chapters = [
             <p>She clicked the button. The screen glowed to life.</p>
             <p>She didn't start drawing immediately. She just let the canvas stay open, exposed to the room, while Elias worked a few feet away.</p>
         `
-    }
-,
+    },
     {
         id: 16,
         title: "Chapter 16: The First Kiss",
@@ -589,7 +587,7 @@ const chapters = [
             <p>He turned around, unlocked his door, and walked inside. The lock clicked shut.</p>
             <p>Maya stood in the empty hallway. She looked down at the metal keys in her hand.</p>
         `
-    }    ,
+    },
     {
         id: 17,
         title: "Chapter 17: New Rules",
@@ -684,13 +682,13 @@ const chapters = [
             <p>"Goodnight, Maya," he murmured into her hair.</p>
             <p>"Goodnight, Elias."</p>
             <p>There was no rush. There was no desperate scramble. Just the quiet, absolute ease of two people who had finally decided to stop fighting the pull of their own gravity.</p>
-            <hr class="section-break">
+            <p>---</p>
             <p>Waking up in his space was entirely disorienting.</p>
             <p>Maya’s eyes fluttered open to a light that was completely wrong. In her apartment, the morning sun hit the white walls of her bedroom directly, filling the space with a sharp, sterile brightness that usually jarred her awake. Here, the light was soft, filtered through the thick dust motes of an old industrial building, painting the brick walls in a warm, muted ochre.</p>
             <p>The air was different, too. It was cool, biting slightly at the tip of her nose, carrying the faint, rich scents of linseed oil, beeswax, and old pine that clung to the floorboards of the workshop downstairs and seeped up through the floorboards. But underneath it was the smell of the bed—warm wool, clean sheets, and Elias.</p>
             <p>She didn't move. She lay perfectly still, her head resting on his bicep, her hand still draped over his ribs.</p>
             <p>Elias was still asleep.</p>
-            <p>Maya looked at him. She had never seen him like this. In the daylight, without his stoic, guarded armor, he looked entirely different. The sharp, watchful intensity of his eyes was hidden behind long, dark eyelashes. His jaw, usually locked tight as if he were constantly holding back a hundred unspoken sentences, was completely relaxed, his lips slightly parted. The messy, dark hair she usually saw combed back was wild, falling over his forehead in soft curls.</p>
+            <p>Maya looked at him. She had never seen him like this. In the daylight, without his stoic, guarded armor, he looked entirely different. The sharp, watchful intensity of his eyes was hidden behind long, dark eyelashes. His jaw, usually locked tight as if he were constantly biting back a hundred sentences, was completely relaxed, his lips slightly parted. The messy, dark hair she usually saw combed back was wild, falling over his forehead in soft curls.</p>
             <p>The pale, silvery scar on his forearm was resting against her side, completely exposed. He looked softer, younger, and entirely vulnerable.</p>
             <p>She reached out, her fingers hovering a fraction of an inch above the sharp line of his collarbone, wanting to touch him but terrified of breaking the spell of the morning.</p>
             <p>Elias let out a low, sleepy sigh. His eyelids fluttered, and then he opened his eyes.</p>
@@ -704,7 +702,7 @@ const chapters = [
             <p>Elias kissed her like a man who had spent his whole life making himself small, retreating to the margins of rooms, assuming he was too difficult to hold, and who had finally realized he was allowed to take up space. He kissed her until her ribs ached from the pressure of his chest, until her hands were shaking in his hair, until the disorienting warmth of his apartment felt like the only real thing in the world.</p>
             <p>When he finally pulled back, his forehead rested against hers, his breathing rough and heavy, his thumb slowly tracing the line of her lip. He didn't speak. He just looked at her, his dark eyes bright and fierce and entirely unguarded.</p>
             <p>Maya closed her eyes, letting out a shaky, quiet breath, her heart drumming a frantic, happy rhythm against his chest.</p>
-            <hr class="section-break">
+            <p>---</p>
             <p>An hour later, the sun had risen higher, casting bright, slanting bars of gold across the living room floorboards.</p>
             <p>Elias was in the kitchen, wearing only his faded gray thermal pants, his back to her as he stood at the counter. The familiar, rich scent of the French press was beginning to cut through the cool air, accompanied by the low, scratchy sound of the jazz radio he had turned on in the corner.</p>
             <p>Maya walked out of the bathroom, her skin still warm from the shower. She had washed her face, her hair damp and clinging to her neck. She stood in the hallway for a moment, watching the broad line of his shoulders as he reached for a plate.</p>
@@ -723,7 +721,7 @@ const chapters = [
         content: `
             <p>The workshop in the late evening had a quality that Maya was slowly beginning to realize belonged entirely to Elias.</p>
             <p>It was the time of day when the aggressive rattle of the metal press next door finally went quiet, leaving only the steady, rhythmic scrape of his hand-sander against maple. The high, grimy windows at the top of the brick walls didn't let in light so much as they filtered the fading indigo of the October twilight, casting long, dusty beams of violet and gold across the floorboards. The air was cool but thick, holding the comforting, heavy scents of sawdust, linseed oil, and the dry, sweet smell of aged timber.</p>
-            <p>Maya was sitting on her usual wooden stool in the corner, her knees pulled up to her chest, her chin resting on her knees as she sketched in a thick, cloth-bound notebook. Over the past week, since the evening of the gray hoodie and the shared pad thai, this quiet routine had become the bedrock of their days. There was no demand for performance here. They existed in a comfortable, elastic silence, tethered by an unspoken but undeniable gravity that seemed to pull them into the same space whenever the outside world got too loud.</p>
+            <p>Maya was sitting on her usual wooden stool in the corner, her knees pulled up to her chest, her chin resting on her knees as she sketched in a thick, cloth-bound notebook. Over the past week, since the evening of the gray hoodie and the shared pad thai, this quiet routine had become the bedrock of their days. There was no demand for performance here. They existed in a comfortable, elastic silence, pulled into the same space whenever the outside world got too loud.</p>
             <p>Elias sander hummed a low, soothing friction. He was working on a piece of maple that would eventually become the arm of a custom sofa for a client uptown. He moved with a quiet, efficient rhythm, his broad shoulders relaxed, his head bent over the wood in a focus so deep it seemed almost sacred.</p>
             <p>He stopped, setting the sander down on the workbench with a solid, dry click. He reached for a rag, wiping the fine white dust from his thick forearms, the motion exposing the pale, thin scar running down his arm. He didn't turn off the heavy overhead work lamps like he usually did when he finished a piece.</p>
             <p>Instead, his gaze drifted to the very back of the workshop, where a massive, heavy canvas tarp was draped over something large and irregular, sitting in the shadows behind a stack of reclaimed walnut boards.</p>
@@ -740,7 +738,7 @@ const chapters = [
             <p>With a slow, deliberate movement, Elias released her hand, caught the edge of the heavy, stiff canvas, and pulled it back in one smooth motion. The tarp hit the floor with a dusty, muffled heap.</p>
             <p>Maya forgot to breathe.</p>
             <p>It was a chair. But calling it a chair felt like a vast, flat understatement, a failure of language.</p>
-            <p>Unlike his commercial work—which was all clean, utilitarian lines, heavy stability, and perfect right angles designed to blend into modern apartments—this piece was completely fluid, alive, and organic. It was made of a dark, rich walnut, and the wood had been bent and shaped so seamlessly that it looked like it had grown that way out of the earth, curving upward to form a high, protective back. The joints were entirely invisible, sanded down until the wood transitioned from one piece to another like water flowing over stone. The arms curved outward in a graceful, sweeping gesture that defied the stubborn rigidity of the material.</p>
+            <p>Unlike his commercial work—which was all clean, utilitarian lines, heavy stability, and perfect right angles designed to blend into modern apartments—this piece was completely fluid, alive, and organic. It was made of a dark, rich walnut, and the wood had been bent and shaped so perfectly that it looked like it had grown that way out of the earth, curving upward to form a high, protective back. The joints were entirely invisible, sanded down until the wood transitioned from one piece to another like water flowing over stone. The arms curved outward in a graceful, sweeping gesture that defied the stubborn rigidity of the material.</p>
             <p>It was, unequivocally, art. It was beautiful, heavy, and full of soul.</p>
             <p>Maya stepped forward, her hand rising automatically, her fingers hovering an inch above the dark, polished surface of the armrest. She looked up at Elias, then back at the chair. The level of craftsmanship was staggering, but it was the emotion radiating from the wood that stopped her heart.</p>
             <p>Elias had taken a half-step back, his shoulders slightly tense, his hands shoved deep into his pockets. He was watching her face with a quiet, fierce intensity, his dark eyes tracking every shift in her expression, every blink of her eyes. He looked like a man braced for a blow, a man who had just laid his bare ribs open to the light.</p>
@@ -792,7 +790,7 @@ const chapters = [
             <p>Beside her, Elias set his glass of water down on the dark wood of the table.</p>
             <p>The movement wasn't violent, and he didn't slam the glass. But there was a sharp, definitive weight to the contact, a heavy *thud* that carried so much physical presence it seemed to stop the sound at their table instantly.</p>
             <p>Liam’s mouth remained half-open mid-sentence. Chloe paused, the bottle opener in her hand frozen.</p>
-            <p>Elias didn't look at Liam, Chloe, or Sam. He turned his body fully toward Maya, his broad shoulders shifting so that he blockaded her from the rest of the restaurant, his dark, intense eyes locked onto her pale face. He wasn't leaning back in his usual, contained posture, legs stretched out, watching the room from the margins. He leaned forward, closing the space between them until she could feel the heat radiating from his chest, his presence entirely overwhelming.</p>
+            <p>Elias didn't look at Liam, Chloe, or Sam. He turned his body fully toward Maya, his broad shoulders shifting so that he blockaded her from the rest of the restaurant, his dark, intense eyes fixed on her pale face. He wasn't leaning back in his usual, contained posture, legs stretched out, watching the room from the margins. He leaned forward, closing the space between them until she could feel the heat radiating from his chest, his presence entirely overwhelming.</p>
             <p>"It's not an opportunity, Maya," Elias said.</p>
             <p>His voice wasn't a whisper. It was a low, hard rasp, carrying a fierce, vibrating edge that easily cut through the acoustic roar of the dining room. A couple at the neighboring table turned their heads, but Elias didn't even blink. His entire world had shrunk to the space of their booth.</p>
             <p>"Elias, it's fine," Maya whispered, her face burning, her instinct to shrink, to make herself invisible, flaring up automatically. "It's just how the industry works. If you want the relationship, you have to—"</p>
@@ -958,7 +956,7 @@ const chapters = [
             <p>Her voice was calm, completely level, but there was a sharp, cold tremor of adrenaline running just underneath the surface.</p>
             <p>Elias set the hand plane down on the workbench with a slow, deliberate click. He didn't look at her immediately; he stared down at the long, clean curl of wood shavings on the bench, his jaw locked tight. "Talk about what?"</p>
             <p>"The fact that you've been hiding from me since Wednesday morning," Maya said. She didn't raise her voice, didn't accuse him, and didn't yell. She just stated the flat, unvarnished fact of the last three days.</p>
-            <p>Elias looked up, his dark eyes locked onto hers. The careful, stoic mask cracked, revealing a sudden, raw flash of real frustration. He leaned his hip against the workbench, his arms crossed over his chest, his posture defensive.</p>
+            <p>Elias looked up, his dark eyes finding hers. The careful, stoic mask cracked, revealing a sudden, raw flash of real frustration. He leaned his hip against the workbench, his arms crossed over his chest, his posture defensive.</p>
             <p>"I haven't been hiding, Maya," he said, his voice a low, rough rumble. "I've been working. I have three commissions due by the end of the month."</p>
             <p>"Elias."</p>
             <p>She said his name with a soft, devastating weight that stopped him in his tracks.</p>
@@ -982,7 +980,7 @@ const chapters = [
             <p>"I can't do this, Elias," she whispered, her voice barely carrying over the hum of the space heater. "I can't be in a relationship where I have to constantly prove I'm not going to leave, just so you won't push me away first."</p>
             <p>Elias didn't answer. He didn't look up from the wood shavings.</p>
             <p>Maya turned around, pushed the heavy glass door open, and walked out. The bell let out one last, lonely chime, and then the door clicked shut, leaving the workshop empty.</p>
-            <hr class="section-break">
+            <p>---</p>
             <p>Sunday was completely, utterly unbearable.</p>
             <p>The silence in her apartment was deafening, a thick, heavy static that made it impossible to focus. Her drawing tablet sat dark on her desk, the blank digital canvas she had opened hours ago remaining untouched. She walked from the kitchen to the living room, her footsteps echoing against the walls, the space feeling too big, too empty, and too cold.</p>
             <p>On Monday afternoon, the buzzer next to her door went off.</p>
@@ -993,7 +991,7 @@ const chapters = [
             <p>He didn't make a scene. He just walked over, set his hand gently on her shoulder, and gave it a firm, steady squeeze.</p>
             <p>"It's going to be okay, Maya," Liam said softly, his voice carrying a rare, serious warmth.</p>
             <p>"It doesn't feel okay, Liam," she whispered, her forehead resting against his shoulder as the tears finally began to spill over her cheeks.</p>
-            <hr class="section-break">
+            <p>---</p>
             <p>Across town, the workshop was dark, with only a single, bright work lamp illuminating the center bench.</p>
             <p>Elias was standing blankly in front of a ruined piece of steam-bent wood. He had applied too much heat, too fast, trying to force the curve, and the dark walnut had splintered down the grain, a clean, jagged break that could not be repaired.</p>
             <p>The metal door clicked open, and the bell chimed.</p>
@@ -1093,7 +1091,7 @@ const chapters = [
             <p>Elias let out a slow, quiet sigh, but his eyes were bright with a deep, happy warmth. He reached out, his hand wrapping around her waist, and pulled her against his side, his face burying in her hair. "If you buy me a pink shirt, I'm going to use your professional drafting tablet to draw a birdhouse."</p>
             <p>"You wouldn't dare," she laughed, wrapping her arms around his neck.</p>
             <p>"Try me," he murmured, his mouth pressing a warm, lingering kiss to her temple.</p>
-            <hr class="section-break">
+            <p>---</p>
             <p>They told Chloe first.</p>
             <p>Maya called her on Sunday afternoon, setting the phone on speaker between them on the kitchen island. Elias was standing nearby, carefully pressing the plunger of the French press with his usual, unhurried precision.</p>
             <p>Before Maya could even say hello, Chloe let out a loud, dramatic groan through the speaker.</p>
@@ -1104,7 +1102,7 @@ const chapters = [
             <p>"Fine, keep your secrets," Chloe sighed. "But tell the brooding woodworker that I expect him to fix my squeaky kitchen cabinet as tribute for my matchmaking services. And it better be level. Tell him to bring his precision marble."</p>
             <p>Elias leaned closer to the phone, his voice a low rumble. "I'll bring the scrap pine, Chloe."</p>
             <p>"Congratulations, you two," Chloe said, her voice dropping its playful edge, replaced by a genuine, sweet warmth. "It’s about time."</p>
-            <hr class="section-break">
+            <p>---</p>
             <p>Telling Liam went exactly as Elias had predicted.</p>
             <p>They met at their usual diner on Monday evening, wedged into the cracked vinyl booth under the flickering neon sign. The diner smelled of stale fries, burnt coffee, and bleach. Maya broke the news while Liam was midway through a massive bite of a chocolate chip waffle.</p>
             <p>Liam stopped chewing.</p>
@@ -1125,7 +1123,7 @@ const chapters = [
             <p>"You'll get a pine box, Liam," Elias deadpanned.</p>
             <p>"See?" Liam cried, pointing a finger at Maya. "This is the dry, devastating humor he’s been keeping in a locked drawer! He’s a changed man!"</p>
             <p>Maya laughed, her hand sliding under the table to rest comfortably against Elias’s knee. Elias didn't pull away. He just looked at her, the corner of his mouth turning up in that quiet, private way that belonged only to her.</p>
-            <hr class="section-break">
+            <p>---</p>
             <p>Sam was the last to know.</p>
             <p>They walked into the workshop on Tuesday afternoon. The shop was quiet, the air thick with the grounding, familiar smells of sawdust and linseed oil. Sam was at the secondary workbench, sorting a massive plastic box of drill bits into tiny metal slots.</p>
             <p>"So," Maya said, leaning her hips against the edge of the workbench, her fingers playing with a stray wood shaving. "Elias and I are together. Officially."</p>
@@ -1155,7 +1153,7 @@ const chapters = [
             <p>"The illustrations are lovely, Maya," Margaret said, her tone sharp, her fingers tapping against her glass of champagne. "Very accessible. But I do worry they’re a bit... introspective for the mainstream market. The cover needs to stand out on a shelf. It needs to pop. I feel we should have gone with a more aggressive, high-energy concept. The market demands noise, visual volume."</p>
             <p>Maya felt the familiar, old instinct to shrink, to apologize and adjust her margins to make the client happy. She felt the ghost of her ex-boyfriend’s voice in her head, telling her to fold herself into a smaller space so others didn't have to carry the weight of her opinions, telling her that creative compromise was the only way to be kept.</p>
             <p>She glanced past Margaret’s shoulder.</p>
-            <p>Elias was watching the exchange. He had lowered his glass, his dark eyes locked onto hers, his expression steady, unyielding, and calm. He was holding the door open for her, reminding her of the conversation in the diner, reminding her of the workshop, and reminding her of her own worth.</p>
+            <p>Elias was watching the exchange. He had lowered his glass, his dark eyes holding hers, his expression steady, unyielding, and calm. He was holding the door open for her, reminding her of the conversation in the diner, reminding her of the workshop, and reminding her of her own worth.</p>
             <p>Maya took a slow breath, her shoulders dropping, a quiet, professional calm settling over her chest.</p>
             <p>"I understand your concern, Margaret," Maya said, her voice steady and clear, carrying easily over the background hum of the room. "But the book itself is a deeply introspective story. The cover illustration isn't meant to shout; it’s meant to invite. If we make it aggressive or high-energy, we're misrepresenting the soul of the book. We want the reader to feel the quiet before they even turn the first page. That’s what makes it stand out on a shelf—not the noise, but the quiet."</p>
             <p>Margaret blinked, caught off guard by the polite but absolute certainty in Maya’s tone. She looked at the framed cover illustration, then back at Maya, her sharp expression slowly softening into one of genuine respect.</p>
@@ -1264,7 +1262,7 @@ const chapters = [
             <p>"The light is fine, Elias," Maya argued, leaning her head against his shoulder. "It's a huge window."</p>
             <p>"It's northern exposure, blocked by a twenty-story high-rise across the alley," Elias pointed out, his tone serious and unyielding. "It’s going to be gray in here by 3:00 PM every day. In the winter, you won't get more than two hours of direct sun. You need natural light to draw, Maya. You need the warm spectrum to see the color values. This light... it’s not good enough. You can't draw emotional beige in gray light."</p>
             <p>"It's fine," she repeated, stubbornly attached to the exposed brick.</p>
-            <p>Elias turned to look at her, his hands coming out of his pockets to frame her face, his dark eyes locked onto hers with a deep, intense warmth that made her heart skip a beat.</p>
+            <p>Elias turned to look at her, his hands coming out of his pockets to frame her face, his dark eyes holding hers with a deep, intense warmth that made her heart skip a beat.</p>
             <p>"You deserve better light than 'fine', Maya," he whispered, his voice a low, rough rumble.</p>
             <p>Maya stared at him, the argument evaporating instantly from her throat, her chest filling with a sweet, staggering warmth. She couldn't argue with that level of care, that silent, protective vigilance that wanted her creative life to have the perfect light. They passed on the loft.</p>
             <p>The third place was on the second floor of an older, brick building on a tree-lined street three neighborhoods over.</p>
@@ -1399,7 +1397,7 @@ const chapters = [
             <p>"It has character," he insisted, though the corner of his mouth twitched, a tiny, brilliant spark of playfulness breaking through his deadpan facade. "And it is structurally sound. I’ll charge double for the charred undertone."</p>
             <p>"You are terrible," she laughed, reaching up to pinch his chin. "We are ordering takeout."</p>
             <p>"Fine," he sighed, his hand wrapping around her waist, pulling her against his side with a quiet, happy warmth. "But I expect my masonry skills to be respected in the future."</p>
-            <hr class="section-break">
+            <p>---</p>
             <p>Later, the kitchen was quiet, the burnt pot soaking in the sink, a white cardboard box of cheap diner food resting on the table.</p>
             <p>Maya was back at her drawing table in the corner of the living room, the afternoon sun casting long, soft shadows across her screen. She was working on a personal illustration—a sketch of their hallway, the two jackets hanging on the hook, the two toothbrushes in the green cup.</p>
             <p>Elias was sitting on the sofa, a thick manual on historic timber joinery on his knees. He turned a page, the sound of the thick paper sharp and crisp in the quiet apartment.</p>
@@ -1633,12 +1631,12 @@ const chapters = [
         content: `
             <p>They were driving up the coast again, three months later.</p>
             <p>"We are officially lost," Elias said, his voice a low, dry rumble. His hands were relaxed on the steering wheel of the rental car, his eyes squinting slightly against the bright ocean glare.</p>
-            <p>"We are not lost," Maya insisted, squinting at a small charcoal sketch in her lap. It was a drawing of a crooked pine tree leaning at a precise forty-five-degree angle over a cliff edge. "We are simply navigating by landmark. The crooked pine is supposed to be right here."</p>
+            <p>"We are not lost," Maya insisted, squinting at a small charcoal sketch in her lap. It was a drawing of a crooked pine tree leaning at a precise forty-five-degree angle over a cliff edge. "We are simply finding our way by landmark. The crooked pine is supposed to be right here."</p>
             <p>"Maya, that tree could be anywhere between here and Canada," Elias deadpanned, his mouth twitching with a quiet smile. "And a charcoal sketch is not a GPS. You've drawn the pine with perfect perspective, but you forgot to include the crossroads."</p>
             <p>"The crossroads are a surprise," she laughed, leaning her head back against the headrest, her curls bouncing slightly with the bumps in the road. "That's the beauty of it. If we used a phone, we'd miss the tension of the search. We'd miss the three wrong turns that Liam would inevitably tell us were structural mistakes."</p>
             <p>"If we run out of gas on this dirt track, I'm going to charge you a salvage fee," Elias said.</p>
             <p>"Put it on my tab," she smiled, reaching over and resting her hand on his knee. Elias didn't hesitate; he immediately let go of the gear shift and wrapped his large, warm fingers around hers, holding on tight.</p>
-            <p>They hadn't intended to end up on the exact same gravel track, but Maya had insisted on navigating without her phone, relying entirely on her memory, the charcoal sketch of the crooked pine tree, and a deeply flawed, highly enthusiastic sense of direction. The winter had completely faded into a soft, bright spring, the trees along the coastal cliffs covered in tiny, pale green buds, the sea below a brilliant, glittering indigo under the warm afternoon sun.</p>
+            <p>They hadn't intended to end up on the exact same gravel track, but Maya had insisted on finding the way without her phone, relying entirely on her memory, the charcoal sketch of the crooked pine tree, and a deeply flawed, highly enthusiastic sense of direction. The winter had completely faded into a soft, bright spring, the trees along the coastal cliffs covered in tiny, pale green buds, the sea below a brilliant, glittering indigo under the warm afternoon sun.</p>
             <p>The rental car bumped along the gravel track, the dust rising in a soft cloud behind them, and then they found it, sitting right at the crossroads in the middle of absolute nowhere.</p>
             <p>The tiny, nameless diner looked exactly the same.</p>
             <p>The blue trim was slightly more faded from the winter storms, and the neon 'OPEN' sign in the window let out a low, familiar hum against the glass. They walked inside, the door letting out that same sharp chime, and wedged themselves into the exact same faded vinyl booth by the window.</p>
@@ -1648,7 +1646,7 @@ const chapters = [
             <p>She started to draw. She drew the salt shaker, the napkin dispenser, the sharp angle of the gold sunlight hitting the Formica. She drew the lines with a quiet, patient certainty, her fingers relaxed, her chest rising and falling in a slow, peaceful rhythm. Her hand was steady, her creative anxiety gone, replaced by a deep, absolute sense of calm that belonged entirely to the space they had built together.</p>
             <p>Elias watched her.</p>
             <p>He sat with his broad shoulders relaxed, his arms resting on the table. He reached into his left jacket pocket, his fingers brushing the cool, smooth walnut of the small wooden box. But instead of pulling it out, he pulled out a single, unlit cigarette.</p>
-            <p>He rested his forearms on the table, rolling the small white cylinder between his thumb and index finger, his dark eyes locked onto her face.</p>
+            <p>He rested his forearms on the table, rolling the small white cylinder between his thumb and index finger, his dark eyes fixed on her face.</p>
             <p>It was the physical manifestation of his old containment, the habit he had used on the fire escape, in the hallway, and in the diner booth whenever he was trying to figure something out, whenever his emotions were too massive to put into words. It was his shield, his physical barrier against the exposure of the world. He had spent a lifetime rolling that small cylinder, keeping his hands busy so he wouldn't have to step forward and ask to be seen.</p>
             <p>Maya looked up from her sketchbook. She saw the unlit cigarette. She saw the familiar, quiet intensity in his dark eyes, the shadow of the old fear hovering in the corner of his focus.</p>
             <p>But Elias didn't look away, and he didn't retreat into his corner.</p>
@@ -1674,5 +1672,3 @@ const chapters = [
         `
     }
 ];
-
-window.bookChapters = chapters;
