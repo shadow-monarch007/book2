@@ -19,6 +19,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const progressBar = document.getElementById('reading-progress');
     const btnAudio = document.getElementById('btn-audio');
     const audioEl = document.getElementById('ambient-audio');
+    
+    // TOC Elements
+    const btnToc = document.getElementById('btn-toc');
+    const btnTocClose = document.getElementById('btn-toc-close');
+    const tocDrawer = document.getElementById('toc-drawer');
+    const tocOverlay = document.getElementById('toc-overlay');
+    const tocList = document.getElementById('toc-list');
 
     // --- Initialization ---
     initTheme();
@@ -45,6 +52,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Audio Toggle
     btnAudio.addEventListener('click', toggleAudio);
+
+    // TOC Toggle
+    btnToc.addEventListener('click', openTOC);
+    btnTocClose.addEventListener('click', closeTOC);
+    tocOverlay.addEventListener('click', closeTOC);
 
     // Scroll Events (Progress Bar & Auto-hide Nav)
     window.addEventListener('scroll', () => {
@@ -158,5 +170,33 @@ document.addEventListener('DOMContentLoaded', () => {
             btnAudio.classList.add('audio-active');
         }
         isAudioPlaying = !isAudioPlaying;
+    }
+
+    // --- Table of Contents Drawer Logic ---
+    function populateTOC() {
+        tocList.innerHTML = '';
+        window.bookChapters.forEach(ch => {
+            const li = document.createElement('li');
+            li.className = `toc-item ${ch.id === currentChapterId ? 'active' : ''}`;
+            li.textContent = ch.title;
+            li.addEventListener('click', () => {
+                loadChapter(ch.id);
+                closeTOC();
+            });
+            tocList.appendChild(li);
+        });
+    }
+
+    function openTOC() {
+        populateTOC();
+        tocDrawer.classList.add('active');
+        tocOverlay.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeTOC() {
+        tocDrawer.classList.remove('active');
+        tocOverlay.classList.remove('active');
+        document.body.style.overflow = '';
     }
 });

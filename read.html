@@ -20,6 +20,9 @@
             <a href="index.html" class="nav-btn" aria-label="Home">
                 <i data-lucide="arrow-left"></i>
             </a>
+            <button class="nav-btn" id="btn-toc" aria-label="Table of Contents" title="Table of Contents">
+                <i data-lucide="book-open"></i>
+            </button>
             <span class="book-title-mini">The Space Between Us</span>
         </div>
         <div class="nav-right">
@@ -59,6 +62,20 @@
     <audio id="ambient-audio" loop preload="none">
         <source src="https://cdn.pixabay.com/download/audio/2021/08/04/audio_0625c1539c.mp3?filename=soft-rain-ambient-111154.mp3" type="audio/mpeg">
     </audio>
+
+    <!-- Table of Contents Drawer -->
+    <div class="toc-overlay" id="toc-overlay"></div>
+    <aside class="toc-drawer" id="toc-drawer">
+        <div class="toc-header">
+            <h3>Table of Contents</h3>
+            <button class="nav-btn" id="btn-toc-close" aria-label="Close Table of Contents">
+                <i data-lucide="x"></i>
+            </button>
+        </div>
+        <ul class="toc-list" id="toc-list">
+            <!-- Chapters will be dynamically injected here -->
+        </ul>
+    </aside>
 
     <script src="js/chapters.js"></script>
     <script src="js/app.js"></script>
