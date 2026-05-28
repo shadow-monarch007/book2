@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Space Between Us</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="theme-dark landing-page">
+    <div class="ambient-overlay"></div>
+    
+    <main class="landing-container">
+        <div class="landing-content">
+            <h1 class="book-title">The Space Between Us</h1>
+            <p class="book-tagline">The noise fades. The quiet remains.</p>
+            
+            <div class="landing-actions">
+                <a href="read.html" class="btn-primary">Start Reading</a>
+            </div>
+            
+            <div class="author-note">
+                <p>An immersive romance novel.</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Set theme from local storage if exists
+        const savedTheme = localStorage.getItem('reader-theme') || 'theme-dark';
+        document.body.className = `${savedTheme} landing-page`;
+    </script>
+</body>
+</html>
