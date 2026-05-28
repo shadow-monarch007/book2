@@ -424,3 +424,20 @@ hr.section-break::before {
     font-size: 1.2rem;
     margin-left: 1em; /* center the spacing visually */
 }
+
+/* --- Chat Image Styles --- */
+.chat-message.image-message {
+    padding: 0;
+    background: none;
+    border: none;
+    overflow: hidden;
+}
+
+.chat-image {
+    max-width: 100%;
+    border-radius: 14px;
+    display: block;
+    max-height: 280px;
+    object-fit: cover;
+    border: 1px solid var(--border-color);
+}
