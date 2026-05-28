@@ -345,7 +345,12 @@ body {
 /* --- Mobile Responsiveness --- */
 @media (max-width: 768px) {
     .reader-nav {
-        padding: 0 1rem;
+        padding: 0 0.5rem;
+        height: 60px;
+    }
+    
+    .nav-left, .nav-right {
+        gap: 0.25rem;
     }
     
     .book-title-mini {
@@ -353,11 +358,27 @@ body {
     }
     
     .theme-selector {
-        display: none; /* Can be moved to a menu in full production */
+        display: flex;
+        gap: 0.15rem;
+        padding: 0.15rem;
     }
     
+    .nav-btn {
+        width: 32px;
+        height: 32px;
+    }
+    
+    .font-icon.small { font-size: 0.85rem; }
+    .font-icon.large { font-size: 1.1rem; }
+    
     .reader-container {
-        padding: 0 1.25rem;
+        padding: 0 1rem;
+        margin-top: 1rem;
+    }
+    
+    .reader-page {
+        padding-top: 60px;
+        padding-bottom: 60px;
     }
 }
 
